@@ -59,4 +59,4 @@ Contributions are welcome! If you want to contribute:
 For any queries or suggestions, feel free to reach out:
 - **Email**: armanbaig998@gmail.com
 - **GitHub**:https://github.com/Reckt-poision
-- for demo i have upload it on linked in: https://www.linkedin.com/in/arman-baig-4860b0306/
+- for demo i have upload it on linked in: https://www.linkedin.com/feed/update/urn:li:activity:7288229590374739968/
